@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emmakbogner
 - 👀 I’m interested in leveraging artificial intelligence to enable precision medical care
-- 🫀 I'm currently working with the Data Intelligence for Health Lab on a decision support tool for the treatment of patients with coronary artery disease
-- 📫 How to reach me: emma.bogner@ucalgary.ca
+- 🫀 I'm currently working with Symbiotic AI on clinical decision support software for cardiologists
+- 📫 How to reach me: emma@symbioticai.ca
 
 <!---
 emmakbogner/emmakbogner is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
